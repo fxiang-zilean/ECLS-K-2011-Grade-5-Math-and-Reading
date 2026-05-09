@@ -219,3 +219,6 @@ __marimo__/
 
 # Raw data file
 *.dat
+
+# DB 
+*.db
